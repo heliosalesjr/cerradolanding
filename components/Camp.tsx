@@ -53,14 +53,14 @@ const Camp = () => {
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <CampSite 
           backgroundImage="bg-bg-img-1"
-          title="Putuk Truno Camp"
-          subtitle="Prigen, Pasuruan"
+          title="Cachoeira Santa Bárbara"
+          subtitle="Cavalcante, Goiás"
           peopleJoined="50+ Joined"
         />
         <CampSite 
           backgroundImage="bg-bg-img-2"
-          title="Mountain View Camp"
-          subtitle="Somewhere in the Wilderness"
+          title="Vale da Lua"
+          subtitle="Alto Paraíso, Goiás"
           peopleJoined="50+ Joined"
         />
       </div>
@@ -71,7 +71,7 @@ const Camp = () => {
             <strong>Uma savana</strong> com características únicas
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+          A Chapada dos Veadeiros, em Goiás, é famosa por suas cachoeiras impressionantes. Localizada em um cenário de cerrado preservado, suas quedas d'água oferecem refrescantes piscinas naturais, atraindo visitantes para trilhas e momentos de contemplação em meio à natureza.
           </p>
           <Image 
             src="/quote.svg"
