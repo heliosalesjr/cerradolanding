@@ -18,32 +18,32 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: 'Real maps can be offline',
+    title: 'Belezas Naturais Únicas',
     icon: '/map.svg',
     variant: 'green',
     description:
-      'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+      'A Chapada dos Veadeiros em Goiás é um santuário de biodiversidade, com paisagens deslumbrantes que incluem cachoeiras cristalinas, formações rochosas impressionantes e uma flora exuberante típica do cerrado brasileiro. Cada trilha revela novas maravilhas naturais, proporcionando aos visitantes uma experiência de conexão profunda com a natureza.',
   },
   {
-    title: 'Set an adventure schedule',
+    title: 'Patrimônio Cultural e Histórico',
     icon: '/calendar.svg',
     variant: 'green',
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      'Além de sua beleza natural, a Chapada dos Veadeiros abriga comunidades locais que preservam tradições culturais e históricas únicas. Visitantes têm a oportunidade de aprender sobre a cultura quilombola em Cavalcante, explorar as raízes místicas em Alto Paraíso e conhecer a simplicidade encantadora da Vila de São Jorge.',
   },
   {
-    title: 'Technology using augment reality',
+    title: 'Turismo Sustentável e Consciência Ambiental',
     icon: '/tech.svg',
     variant: 'green',
     description:
-      'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+      'A região da Chapada dos Veadeiros é um exemplo de turismo sustentável, promovendo práticas de conservação ambiental e respeito à natureza. Guias locais e comunidades trabalham em conjunto para proteger as áreas naturais enquanto proporcionam experiências autênticas aos visitantes, incentivando a conscientização sobre a importância da preservação ambiental.',
   },
   {
-    title: 'Many new locations every month',
+    title: 'Experiências de Aventura e Bem-Estar',
     icon: '/location.svg',
     variant: 'orange',
     description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+      'Para os amantes de aventura e bem-estar, a Chapada dos Veadeiros oferece uma variedade de atividades emocionantes, como trilhas desafiadoras, banhos revigorantes em cachoeiras e práticas de yoga em meio à natureza. É um destino ideal para quem busca relaxamento, aventura e renovação em um ambiente naturalmente inspirador.',
   },
 ];
 
