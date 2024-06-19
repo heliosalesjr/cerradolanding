@@ -14,10 +14,9 @@ const Hero = () => {
           height={50}
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg:bold-88">O Cerrado Brasileiro</h1>
+        <h1 className="bold-52 lg:bold-88">Chapada dos Veadeiros</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-        O Cerrado brasileiro, a savana mais rica em biodiversidade do mundo, é um bioma vital que cobre cerca de 25% do território do Brasil, abrigando inúmeras espécies endêmicas e desempenhando um papel crucial na regulação do clima e no ciclo hidrológico do país.
-        </p>
+        A Chapada dos Veadeiros, em Goiás, é famosa por suas cachoeiras e formações rochosas antigas. Parte do Cerrado, conhecido como a "savana brasileira", abriga uma enorme variedade de plantas e animais únicos, sendo uma área importante para a biodiversidade do Brasil.         </p>
 
         <div className="my-11 flex flex-wrap gap-5">
           <div className="flex items-center gap-2">
