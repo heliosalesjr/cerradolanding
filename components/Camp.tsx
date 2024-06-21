@@ -65,13 +65,13 @@ const Camp = () => {
           peopleJoined="50+ Joined"
         />
         <CampSite 
-          backgroundImage="bg-bg-img-2"
+          backgroundImage="/vdl.jpg"
           title="Vale da Lua"
           subtitle="Alto Paraíso, Goiás"
           peopleJoined="50+ Joined"
         />
         <CampSite 
-          backgroundImage="bg-bg-img-2"
+          backgroundImage="/canjica.webp"
           title="Complexo do Canjica"
           subtitle="Alto Paraíso, Goiás"
           peopleJoined="50+ Joined"
