@@ -81,6 +81,6 @@ export const SOCIALS = {
     '/instagram.svg',
     '/twitter.svg',
     '/youtube.svg',
-    '/wordpress.svg',
+    
   ],
 };
