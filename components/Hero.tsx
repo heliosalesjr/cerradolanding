@@ -15,7 +15,7 @@ const Hero = () => {
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
         <h1 className="bold-52 lg:bold-88">Chapada dos Veadeiros</h1>
-        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
+        <p className="regular-16 mt-6 text-slate-30 xl:max-w-[520px]">
         A Chapada dos Veadeiros, em Goiás, é famosa por suas cachoeiras e formações rochosas antigas. Parte do Cerrado, conhecido como a "savana brasileira", abriga uma enorme variedade de plantas e animais únicos, sendo uma área importante para a biodiversidade do Brasil.         </p>
 
         <div className="my-11 flex flex-wrap gap-5">
@@ -56,7 +56,7 @@ const Hero = () => {
 
            <div className="flex flex-col">
             <div className="flexBetween">
-              <p className="regular-16 text-gray-20">Cidade</p>
+              <p className="regular-16 text-slate-20">Cidade</p>
               <Image src="/close.svg" alt="close" width={24} height={24} />
             </div>
             <p className="bold-20 text-white">Cavalcante</p>
@@ -64,11 +64,11 @@ const Hero = () => {
 
           <div className="flexBetween">
             <div className="flex flex-col">
-              <p className="regular-16 block text-gray-20">Distância de Brasília</p>
+              <p className="regular-16 block text-slate-20">Distância de Brasília</p>
               <p className="bold-20 text-white">310 km</p>
             </div>
             <div className="flex flex-col">
-              <p className="regular-16 block text-gray-20">Elevação</p>
+              <p className="regular-16 block text-slate-20">Elevação</p>
               <p className="bold-20 text-white">822,96 metros</p>
             </div>
           </div>
