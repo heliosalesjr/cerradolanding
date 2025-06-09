@@ -11,7 +11,7 @@ const Guide = () => {
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">A aventura está só começando</h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Para começar a explorar a Chapada dos Veadeiros, direcione sua viagem para Alto Paraíso, Vila de São Jorge ou Cavalcante. Essas localidades servem como excelentes pontos de partida para conhecer as principais trilhas e cachoeiras da região. Verifique as condições climáticas ideais, e considere a possibilidade de contratar guias locais para enriquecer sua experiência e aproveitar ao máximo as belezas naturais que cada área tem a oferecer.</p>
+          <p className="regular-16 text-slate-30 xl:max-w-[520px]">Para começar a explorar a Chapada dos Veadeiros, direcione sua viagem para Alto Paraíso, Vila de São Jorge ou Cavalcante. Essas localidades servem como excelentes pontos de partida para conhecer as principais trilhas e cachoeiras da região. Verifique as condições climáticas ideais, e considere a possibilidade de contratar guias locais para enriquecer sua experiência e aproveitar ao máximo as belezas naturais que cada área tem a oferecer.</p>
         </div>
       </div>
 
@@ -35,14 +35,14 @@ const Guide = () => {
           <div className="flexBetween flex-col">
             <div className='flex w-full flex-col'>
               <div className="flexBetween w-full">
-                <p className="regular-16 text-gray-20">Destino</p>
+                <p className="regular-16 text-slate-20">Destino</p>
                 <p className="bold-16 text-green-50">51 min</p>
               </div>
               <p className="bold-20 mt-2">Alto Paraíso</p>
             </div>
 
             <div className='flex w-full flex-col'>
-              <p className="regular-16 text-gray-20">Próxima parada</p>
+              <p className="regular-16 text-slate-20">Próxima parada</p>
               <h4 className="bold-20 mt-2 whitespace-nowrap">Vila de São Jorge</h4>
             </div>
           </div>
