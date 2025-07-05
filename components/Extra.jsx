@@ -1,15 +1,7 @@
-import React from 'react'
 
-const Extra = () => {
+
+export default function Extra() {
   return (
-    <div>
-        <h1>
-            Extra, extra!
-        </h1>
-
-        <p>lorem ipsum laureat</p>
-    </div>
+    <div>Extra</div>
   )
 }
-
-export default Extra
